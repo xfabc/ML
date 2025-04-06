@@ -1,6 +1,13 @@
 # ML 
-## Linear Regression
-## Logistic Regression
-## SVM
-## Decision Tree
+## C++
+### Linear Regression
+### Logistic Regression
+### SVM
+### Decision Tree
+
+## python
+### Linear Regression
+### Logistic Regression
+### SVM
+### Decision Tree
 
